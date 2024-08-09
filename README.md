@@ -15,7 +15,7 @@ Put the API_ID, API_HASH, BOT_TOKEN at Config.py
 ```
 Clone the repository to the directory you want:
 ```
-git clone https://github.com/riz4d/TempMail-Bot
+git clone https://github.com/pref6/fast-mail-bot.git
 ```
 Go to the directory with the bot files and install the dependencies:
 ```
