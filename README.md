@@ -4,8 +4,11 @@ Telegram bot that creates temporary mail based on 1secmail API.
 **Setup:**
 
 Configuration:
+
 "API_ID" - Get this value from https://my.telegram.org
+
 "API_HASH" - Get this value from https://my.telegram.org
+
 "BOT_TOKEN" - Get Bot Token From BotFather Bot
 ```
 Put the API_ID, API_HASH, BOT_TOKEN at Config.py
